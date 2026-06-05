@@ -6,8 +6,8 @@ I enjoy building responsive and user-friendly websites with a focus on clean des
 
 ## Portfolio
 
-Portfolio Website:
-https://stigjoran.github.io/portfolio-1/
+Portfolio Website: https://stigjoran.github.io/portfolio-1/
+
 
 ## Featured Projects
 
